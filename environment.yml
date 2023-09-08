@@ -2,7 +2,7 @@ name: uiogrowth
 channels:
   - defaults
 dependencies:
-  - matplotlig=3.7.1
+  - matplotlib=3.7.1
   - numpy=1.25.2
   - pandas=2.0.3
   - openpyxl=3.0.10
