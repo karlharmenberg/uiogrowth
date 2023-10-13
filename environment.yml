@@ -8,4 +8,5 @@ dependencies:
   - openpyxl=3.0.10
   - plotly=5.9.0
   - python=3.9.17
+  - seaborn=0.12.2
 prefix: /Users/kalle/opt/anaconda3/envs/uiogrowth
