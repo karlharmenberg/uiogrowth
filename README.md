@@ -7,7 +7,8 @@ Below follows a short description of each of the notebooks in the repository.
 
 | Notebook                     | Content                                                                                  |
 |------------------------------|------------------------------------------------------------------------------------------|
-| kaldor.ipynb                 | Look at the Kaldor facts, as in Kurlat 2020 chapter 3.
+| kaldor.ipynb                 | Look at the Kaldor facts, as in Kurlat 2020 chapter 3.                                   |
+| solow.ipynb                  | Produce some simple Solow-model figures and simulate a shock to the saving rate.         |
 | intro_pwt.ipynb              | Open Penn World Table and replicate three figures from Jones 2016.                       |
 | growth_accounting.ipynb      | Perform a growth accounting exercise, replicating Table 5.1 from Aghion and Howitt 2009. |
 | development_accounting.ipynb | Perform a development accounting exercise, replicating Caselli 2005.                     |
